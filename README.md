@@ -1,2 +1,2 @@
 # monstergame
-Monster Game
+Small monster game used to practice VueJs
